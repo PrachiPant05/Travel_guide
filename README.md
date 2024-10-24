@@ -7,7 +7,7 @@ To create a README file for your GitHub repository based on the Streamlit app yo
 
 # Streamlit Travel App
 
-This Streamlit app allows users to search for flights and hotels using the Google Search API through the SerpApi service. It features different functionalities based on user selection:
+This Streamlit app allows users to search for flights and hotels using the Google Search API through the SerpApi service. It features different functionalities based on user selection:   
 
 ## Features
 
