@@ -44,9 +44,6 @@ This Streamlit app allows users to search for flights and hotels using the Googl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/khushie03/travel_planning_agent.git
-   cd https://github.com/khushie03/travel_planning_agent
-   ```
 
 2. Install dependencies:
    ```
